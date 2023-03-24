@@ -1,6 +1,7 @@
 # EDUCATION-TECH-ANALYSIS
 
 BACKGROUND
+
 This analysis was done for an Education Tech Company and we sought to track the performance of each course we’ve rolled out and also find opportunities in these courses that we were offering out in order to maximize revenue
 
 INSIGHTS SUMMARY
